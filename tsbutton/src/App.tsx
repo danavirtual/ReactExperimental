@@ -14,7 +14,7 @@ const handleClick = () => {
   button!.textContent = "Claimant is John Doe!";
   button!.style.color = "white";
   button!.style.border = "2px dashed blue";
-  button!.style.height = "100px";
+  button!.style.height = "110px";
 
 }
 
